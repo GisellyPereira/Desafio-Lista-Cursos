@@ -22,7 +22,7 @@ Este é um projeto desenvolvido como parte de um desafio técnico. Consiste em u
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone <[url_do_repositório](https://github.com/GisellyPereira/Desafio-Lista-Cursos.git)>
+   git clone <(https://github.com/GisellyPereira/Desafio-Lista-Cursos.git)>
 
 2. Navegue até o diretório do projeto:
 
