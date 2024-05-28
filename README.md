@@ -24,22 +24,18 @@ Este é um projeto desenvolvido como parte de um desafio técnico. Consiste em u
    ```bash
    git clone <(https://github.com/GisellyPereira/Desafio-Lista-Cursos.git)>
 
-2. Navegue até o diretório do projeto:
 
-   ```bash
-   cd courses-app
-
-3. Instale as dependências:
+2. Instale as dependências:
 
    ```bash
    npm install
 
-4. Inicie o servidor de desenvolvimento:
+3. Inicie o servidor de desenvolvimento:
 
    ```bash
-   npm start
+   npm run dev
 
-5. Abra seu navegador e acesse http://localhost:3000 para visualizar o aplicativo. 
+4. Abra seu navegador e acesse http://localhost:3000 para visualizar o projeto. 
 
 
 ## Como Usar 🚀
